@@ -1,9 +1,3 @@
-//
-//  README.md
-//  Week2_Assignment
-//
-//  Created by Rayaheen Mseri on 15/09/1446 AH.
-//
 
 # To-Do List App - SwiftUI
 
